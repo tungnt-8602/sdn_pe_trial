@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    background-color: skyblue;
+    padding-left: 20%;
+    align-items: center;
+    height: 3rem;
+    min-width: 100%;
+}
+
+.header a{
+    color: lavender;
+    font-weight: bold;
+    text-decoration: none;
+}
